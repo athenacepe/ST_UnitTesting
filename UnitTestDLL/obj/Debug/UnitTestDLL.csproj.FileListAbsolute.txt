@@ -1,0 +1,11 @@
+C:\Users\athen\Downloads\DoublyLinkedListWithErrors (1)\DoublyLinkedListWithErrors\UnitTestDLL\obj\Debug\UnitTestDLL.csprojAssemblyReference.cache
+C:\Users\athen\Downloads\DoublyLinkedListWithErrors (1)\DoublyLinkedListWithErrors\UnitTestDLL\obj\Debug\UnitTestDLL.csproj.CoreCompileInputs.cache
+C:\Users\athen\Downloads\DoublyLinkedListWithErrors (1)\DoublyLinkedListWithErrors\UnitTestDLL\bin\Debug\UnitTestDLL.dll
+C:\Users\athen\Downloads\DoublyLinkedListWithErrors (1)\DoublyLinkedListWithErrors\UnitTestDLL\bin\Debug\UnitTestDLL.pdb
+C:\Users\athen\Downloads\DoublyLinkedListWithErrors (1)\DoublyLinkedListWithErrors\UnitTestDLL\bin\Debug\DoublyLinkedListWithErrors.exe
+C:\Users\athen\Downloads\DoublyLinkedListWithErrors (1)\DoublyLinkedListWithErrors\UnitTestDLL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\athen\Downloads\DoublyLinkedListWithErrors (1)\DoublyLinkedListWithErrors\UnitTestDLL\bin\Debug\DoublyLinkedListWithErrors.pdb
+C:\Users\athen\Downloads\DoublyLinkedListWithErrors (1)\DoublyLinkedListWithErrors\UnitTestDLL\bin\Debug\DoublyLinkedListWithErrors.exe.config
+C:\Users\athen\Downloads\DoublyLinkedListWithErrors (1)\DoublyLinkedListWithErrors\UnitTestDLL\obj\Debug\UnitTestDLL.csproj.CopyComplete
+C:\Users\athen\Downloads\DoublyLinkedListWithErrors (1)\DoublyLinkedListWithErrors\UnitTestDLL\obj\Debug\UnitTestDLL.dll
+C:\Users\athen\Downloads\DoublyLinkedListWithErrors (1)\DoublyLinkedListWithErrors\UnitTestDLL\obj\Debug\UnitTestDLL.pdb
